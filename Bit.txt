@@ -1,4 +1,4 @@
-<span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cd Bitwise<!-- kjsdfhkjdhsfkjdshfkj -->Despre_Mine
+<span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cd Bitwise<!-- kjsdfhkjdhsfkjdshfkj -->\Despre_Mine
 <span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bit.txt<br/><br/>
 Citatul meu preferat? "<span id="k">"Cu WD-40 si niste banda izolatoare, iesi din facultate inginer."</span>". <!-- sjkfhskjf -->
 
