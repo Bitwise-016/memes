@@ -1,7 +1,13 @@
-<span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cd Bitwise/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bit.txt<br/><br/>
-My favorite code quote, "<span id="k">If it doesn't work, fix it, if it still doesn't work, fix it again</span>". <!-- sjkfhskjf -->
+<span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cd Bitwise<!-- kjsdfhkjdhsfkjdshfkj -->Despre_Mine
+<span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
+Citatul meu preferat? "<span id="k">"Cu WD-40 si niste banda izolatoare, iesi din facultate inginer."</span>". <!-- sjkfhskjf -->
 
-Testing testing 1 2 3
+Bun gasit, acesta este portofoliul meu.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Inca e in lucru, dar pentru cateva ore de injuraturi, nu a iesit rau.</p>
+<p>Eu sunt Adminul, am zis sa fac o incalzire in javascript si html pentru ziua cand asta chiar va fi un portofoliu real.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> Am muncit la numeroase proiecte, un format mai citet se poate gasi<a href="link"> aici</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> Sunt de parere ca nimic din ce ne este oferit nu este oferit la capacitate maxima, dar nici fara motiv, astfel, imi place sa storc fiecare picatura de performanta din tehnologie si nu doar, pentru ca vezi doamne, am platit pentru tot, o sa folosesc tot, dar si pentru ca e chiar distractiv uneori. (Spre deosebire de acest site) <br><br><br>Proiectul meu principal inca nu este publicat complet pe net, dar pentru un mic preview, apasati <a href="https://www.reddit.com/r/hackintosh/comments/bqga54/goodix_fp_scanner_in_hackintosh/"> cu degetul aici.</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Alte proiecte la care am lucrat includ: <br> <a href="https://sites.google.com/view/progmath/online-course/c?authuser=0">Tutoriale in C++ in cadrul proiectului Progmath</a> <br> <a href="https://aigolearning.org/">Profesor la aceasta minunata scoala</a> si <br> <a href="https://www.reddit.com/r/hackintosh/comments/bsk40u/victory_with_the_dell_g5_5587almost/">Aventuri cu Apple si nu doar (fair warning, nu am mai actualizat postarea de 2 ani)</a>.</p>
 
-<p>Cheers!</p>
+<!-- slightdelayhere-->Cica aici ar veni adresa de <!-- longlonglongcomment --><a href="filipg114@gmail.com">mail?</a>.
+
+<p>Multam de atentie, daca aveti sugestii, ma gasiti, cumva!</p>
