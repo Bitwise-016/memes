@@ -1,6 +1,6 @@
 <span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cd Bitwise<!-- kjsdfhkjdhsfkjdshfkj -->\Despre_Mine
 <span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bit.txt<br/><br/>
-Citatul meu preferat? "<span id="k">"Cu WD-40 si niste banda izolatoare, iesi din facultate inginer."</span>". <!-- sjkfhskjf -->
+Citatul meu preferat? <span id="k">"Cu WD-40 si niste banda izolatoare, iesi din facultate inginer."</span>. <!-- sjkfhskjf -->
 
 Bun gasit, acesta este portofoliul meu.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Inca e in lucru, dar pentru cateva ore de injuraturi, nu a iesit rau.</p>
 <p>Eu sunt Adminul, am zis sa fac o incalzire in javascript si html pentru ziua cand asta chiar va fi un portofoliu real.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
