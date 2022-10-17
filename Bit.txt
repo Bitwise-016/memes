@@ -10,4 +10,4 @@ Bun găsit, acesta este portofoliul meu.<!-- laglaglaglaglaglaglaglaglaglaglagla
 
 <!-- slightdelayhere-->Aici ar veni adresa de <!-- longlonglongcomment --><a href="mailto:filipg114@gmail.com">mail?</a> 
 
-<p>Mulțumesc pentru atenție, dacă există sugestii, idei sau doriți să mă contactați, mă găsiți și pe facebook la https://www.facebook.com/bitwise.016/ sau mai modern, pe discord la Bitwise#7472</p>
+<p>Mulțumesc pentru atenție, dacă există sugestii, idei sau doriți să mă contactați, mă găsiți și pe facebook la https://www.facebook.com/bitwise.016/ sau mai modern, pe discord la Bitwise#7472.</p>
