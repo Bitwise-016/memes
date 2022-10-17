@@ -1,13 +1,13 @@
 <span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cd Bitwise<!-- kjsdfhkjdhsfkjdshfkj -->\Despre_Mine
 <span id="a">root@bit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bit.txt<br/><br/>
-Citatul meu preferat? <span id="k">"Cu WD-40 si niste banda izolatoare, iesi din facultate inginer."</span>. <!-- sjkfhskjf -->
+Citatul meu preferat? <span id="k">"Cu WD-40 si niste banda izolatoare, ieși din facultate inginer."</span>. <!-- sjkfhskjf -->
 
-Bun gasit, acesta este portofoliul meu.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Inca e in lucru, dar pentru cateva ore de injuraturi, nu a iesit rau.</p>
-<p>Eu sunt Adminul, am zis sa fac o incalzire in javascript si html pentru ziua cand asta chiar va fi un portofoliu real.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Am muncit la numeroase proiecte, un format mai citet se poate gasi<a href="link"> aici</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p> Sunt de parere ca nimic din ce ne este oferit nu este oferit la capacitate maxima, dar nici fara motiv, astfel, imi place sa storc fiecare picatura de performanta din tehnologie si nu doar, pentru ca vezi doamne, am platit pentru tot, o sa folosesc tot, dar si pentru ca e chiar distractiv uneori. (Spre deosebire de acest site) <br><br><br>Proiectul meu principal inca nu este publicat complet pe net, dar pentru un mic preview, apasati <a href="https://www.reddit.com/r/hackintosh/comments/bqga54/goodix_fp_scanner_in_hackintosh/"> cu degetul aici</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> Alte proiecte la care am lucrat includ: <br> <a href="https://sites.google.com/view/progmath/online-course/c?authuser=0">Tutoriale in C++ in cadrul proiectului Progmath</a> <br> <a href="https://aigolearning.org/">Profesor la aceasta minunata scoala</a> si <br> <a href="https://www.reddit.com/r/hackintosh/comments/bsk40u/victory_with_the_dell_g5_5587almost/">Aventuri cu Apple si nu doar (fair warning, nu am mai actualizat postarea de 2 ani)</a>.</p>
+Bun găsit, acesta este portofoliul meu.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>E actualizat periodic, la fel ca mine.</p>
+<p>Eu sunt Filip/Ari, am ajuns să fac acest site mai mult pentru a mă provoca și a face ceva ce simt că mă reprezintă, fiind de părere că un site corect reflectă și genul de om care l-a făcut.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> Am muncit la numeroase proiecte, un format mai citeț se poate găsi<a href="link"> aici</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> Sunt de părere că nimic din ce ne este oferit nu este oferit la capacitate maximă, dar uneori suntem limitați fără motiv, totuși, imi place sa storc fiecare picătură de performanță din tehnologie și nu doar, pentru că „am plătit pentru tot, o să folosesc tot”, dar și pentru că uneori e chiar distractiv. <br><br><br>Proiectul meu principal încă nu este publicat complet pe net, dar ca un mic spoiler, în urma acestei postări pe groapa de gunoi a internetului (reddit), am fost inspirat să iau proiectul în mâinile mele și să încep lunga muncă, apăsați <a href="https://www.reddit.com/r/hackintosh/comments/bqga54/goodix_fp_scanner_in_hackintosh/"> cu degetul aici</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Alte proiecte la care am lucrat includ: <br> <a href="https://sites.google.com/view/progmath/online-course/c?authuser=0">Tutoriale in C++ în cadrul proiectului Progmath</a> <br> <a href="https://aigolearning.org/">Profesor de Java la această minunată școală</a> și <br> <a href="https://www.reddit.com/r/hackintosh/comments/bsk40u/victory_with_the_dell_g5_5587almost/">Aventuri cu Apple si nu doar (nu am mai actualizat postarea de câțiva ani, dar lupta continuă)</a>.</p>
 
-<!-- slightdelayhere-->Cica aici ar veni adresa de <!-- longlonglongcomment --><a href="mailto:filipg114@gmail.com">mail?</a> 
+<!-- slightdelayhere-->Aici ar veni adresa de <!-- longlonglongcomment --><a href="mailto:filipg114@gmail.com">mail?</a> 
 
-<p>Multam de atentie, daca aveti sugestii, ma gasiti, cumva!</p>
+<p>Mulțumesc pentru atenție, dacă există sugestii, idei sau doriți să mă contactați, mă găsiți și pe facebook la https://www.facebook.com/bitwise.016/ sau mai modern, pe discord la Bitwise#7472</p>
